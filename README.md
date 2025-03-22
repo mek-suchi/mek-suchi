@@ -11,8 +11,8 @@
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL">
-    <img src="[https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white](https://www.pngfind.com/pngs/m/501-5014887_portfolio-logo-png-transparent-parallel-png-download.png)" alt="Youtube Badge"/>
+ <a href="your-youtube-URL">
+    <img src="https://www.pngfind.com/pngs/m/501-5014887_portfolio-logo-png-transparent-parallel-png-download.png" alt="Youtube Badge"/>
   </a>
   <a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
