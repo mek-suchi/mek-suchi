@@ -28,32 +28,60 @@
 
 ### 🛠️ Languages and Tools
 
+#### Core Languages Distribution
+
+<table align="center">
+  <tr>
+    <th>Language</th>
+    <th>Percentage</th>
+  </tr>
+  <tr>
+    <td>JavaScript</td>
+    <td>70%</td>
+  </tr>
+  <tr>
+    <td>TypeScript</td>
+    <td>10%</td>
+  </tr>
+  <tr>
+    <td>PHP</td>
+    <td>6.67%</td>
+  </tr>
+  <tr>
+    <td>HTML</td>
+    <td>6.67%</td>
+  </tr>
+  <tr>
+    <td>CSS</td>
+    <td>6.67%</td>
+  </tr>
+</table>
+
+<br/>
+
 <div align="center">
-  <!-- HTML -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" title="HTML5" width="40" height="40" />&nbsp;&nbsp;
-  <!-- CSS -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" title="CSS3" width="40" height="40" />&nbsp;&nbsp;
-  <!-- JavaScript -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="40" height="40" />&nbsp;&nbsp;
-  <!-- TypeScript -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" width="40" height="40" />&nbsp;&nbsp;
-  <!-- React -->
+  <!-- Core Languages Icons -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript (70%)" width="60" height="60" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript (10%)" width="30" height="30" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" title="PHP (6.67%)" width="40" height="40" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" title="HTML (6.67%)" width="40" height="40" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" title="CSS (6.67%)" width="40" height="40" />
+</div>
+
+<br/>
+
+#### Frameworks & Tools
+
+<div align="center">
+  <!-- Frontend Frameworks -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" title="React" width="40" height="40" />&nbsp;&nbsp;
-  <!-- Next.js -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" title="Next.js" width="40" height="40" />&nbsp;&nbsp;
-  <!-- Vue -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue" title="Vue" width="40" height="40" />&nbsp;&nbsp;
-  <!-- Nuxt -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" alt="Nuxt" title="Nuxt" width="40" height="40" />&nbsp;&nbsp;
-  <!-- Tailwind CSS (เวอร์ชัน v2.15.1) -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" title="Tailwind CSS" width="40" height="40" />&nbsp;&nbsp;
-  <!-- Node.js -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" title="Tailwind CSS" width="40" height="40" />&nbsp;&nbsp;
+  <!-- Backend & Others -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" title="Node.js" width="40" height="40" />&nbsp;&nbsp;
-  <!-- PHP -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" title="PHP" width="40" height="40" />&nbsp;&nbsp;
-  <!-- MySQL -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" width="40" height="40" />&nbsp;&nbsp;
-  <!-- Git -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" title="Git" width="40" height="40" />
 </div>
 
@@ -63,12 +91,12 @@
 
 <table align="center">
   <tr>
-    <td align="center">
+    <td align="center" style="padding: 10px;">
       <a href="https://git.io/streak-stats">
         <img src="http://github-readme-streak-stats.herokuapp.com?user=ohmiler&theme=dark&background=000000" alt="GitHub Streak" />
       </a>
     </td>
-    <td align="center">
+    <td align="center" style="padding: 10px;">
       <a href="https://github.com/anuraghazra/github-readme-stats">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ohmiler&layout=compact&theme=vision-friendly-dark" alt="Top Langs" />
       </a>
