@@ -45,8 +45,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue" title="Vue" width="40" height="40" />&nbsp;&nbsp;
   <!-- Nuxt -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" alt="Nuxt" title="Nuxt" width="40" height="40" />&nbsp;&nbsp;
-  <!-- Tailwind CSS (เวอร์ชัน v2.15.1) -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" title="Tailwind CSS" width="40" height="40" />&nbsp;&nbsp;
+ <!-- Tailwind CSS (เวอร์ชัน v2.15.1) -->
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" title="Tailwind CSS" width="40" height="40" />&nbsp;&nbsp;
+ <!-- Bootstrap -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" title="Bootstrap" width="40" height="40" />&nbsp;&nbsp;
   <!-- Node.js -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" title="Node.js" width="40" height="40" />&nbsp;&nbsp;
   <!-- PHP -->
