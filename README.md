@@ -26,7 +26,7 @@
 
 <br/>
 
-### 🛠️ Languages and Tools
+### 🛠️ Technical Skill Set
 
 <div align="center">
   <!-- HTML -->
