@@ -58,28 +58,3 @@
   <!-- Git -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" title="Git" width="40" height="40" />
 </div>
-
----
-
-### 🔥 My Stats
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <a href="https://git.io/streak-stats">
-        <img src="http://github-readme-streak-stats.herokuapp.com?user=ohmiler&theme=dark&background=000000" alt="GitHub Streak" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ohmiler&layout=compact&theme=vision-friendly-dark" alt="Top Langs" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-<div align="center" style="margin-top: 20px; font-style: italic;">
-  <blockquote>
-    "Remember, every bug you fix and every line of code you write is a step toward greatness."
-  </blockquote>
-</div>
